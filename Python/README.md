@@ -1,1 +1,1 @@
-
+![alt text](https://raw.githubusercontent.com/Bauddhik-Geeks/Coding/main/Python/data_struc.png)
